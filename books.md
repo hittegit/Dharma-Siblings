@@ -25,7 +25,6 @@ We encourage offerings from a place of practice, curiosity, and respect. 🌿
 ### 🧘 Memoir and Personal Practice
 
 - *The Novice* – Thich Nhat Hanh  
-- *Sit Down and Shut Up* – Brad Warner  
 - *The Zen of Therapy* – Mark Epstein  
 
 ---
