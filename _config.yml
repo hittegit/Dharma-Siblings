@@ -1,10 +1,9 @@
 title: Dharma Siblings
 description: A shared resource for our online sangha
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 logo: "/assets/images/logo.png"  # Optional
 color_scheme: light
 
-# Enable the sidebar navigation
 nav:
   - title: Group Compass
     url: /
