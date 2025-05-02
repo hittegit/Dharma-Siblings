@@ -1,4 +1,14 @@
 title: Dharma Siblings
-description: A shared compass for our online sangha
-theme: minima
-markdown: kramdown
+description: A shared resource for our online sangha
+theme: just-the-docs
+logo: "/assets/images/logo.png"  # Optional
+color_scheme: light
+
+# Enable the sidebar navigation
+nav:
+  - title: Group Compass
+    url: /
+  - title: Video and Film
+    url: /video-and-film
+  - title: Art
+    url: /art
