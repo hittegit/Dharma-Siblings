@@ -18,6 +18,8 @@ Our shared intention is to foster a space of mutual respect, warmth, and sinceri
   Is it *true*, *timely*, *gentle*, *beneficial*, and spoken with a mind of goodwill?
 - Keep the focus on practice: sharing inspiration, inquiry, and reflection—not instruction or correction.
 - Be receptive to the unfolding of the Dharma in one another's lives.
+- Cultivate gratitude as an expression of our vows, allowing the precepts to gently inform how we show up for one another.
+
 
 ---
 
