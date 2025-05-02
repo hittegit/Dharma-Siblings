@@ -3,8 +3,6 @@ layout: default
 title: Dharma Siblings Group Compass
 ---
 
-# Dharma Siblings Group Compass
-
 🙏 *Welcome to our informal online sangha.* This space exists to help us stay connected outside the zendo—through sharing books, articles, poetry, art, Dharma talks, practice questions, and light conversation.
 
 Our shared intention is to foster a space of mutual respect, warmth, and sincerity, grounded in our Zen practice. This compass offers a simple framework to help us care for that space together.
