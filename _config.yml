@@ -9,10 +9,11 @@ nav:
     url: /
   - title: Video and Film
     url: /video-and-film
-  - title: Art
-    url: /art
+  - title: Artwork
+    url: /artwork
+  - title: Books
+    url: /books
 
 just_the_docs:
   custom_css:
     - "/assets/css/just-the-docs.scss"
-    
