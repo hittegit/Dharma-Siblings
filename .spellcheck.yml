@@ -13,8 +13,10 @@ matrix:
         ignore_case: true
     pipeline:
       - name: remove_code
-        regex: '(```.*?```|`.*?`)'
-        replacement: ''
+        options:
+          regex: '(```.*?```|`.*?`)'
+          replacement: ''
       - name: remove_urls
-        regex: '\bhttps?://[^\s\)\]]+'
-        replacement: ''
+        options:
+          regex: '\bhttps?://[^\s\)\]]+'
+          replacement: ''
