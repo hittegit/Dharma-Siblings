@@ -1,4 +1,10 @@
-# Dharma-Siblings
+<!-- markdownlint-disable-file MD041 -->
+
+<p align="center">
+  <img src="assets/images/dharmaSiblings.png" alt="Dharma Siblings Logo" width="150"/>
+</p>
+
+# Welcome to the ReadMe!👨‍💻
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -10,12 +16,46 @@
 
 ---
 
-A static site for serving content to the unofficial Houston Zen student group
+## 🧭 About This Project
 
-If you'd like to contribute in any way, and are unfamiliar with GitHub, please contact Erik for instruction.
+This site serves as a shared resource for the unofficial Houston Zen student group, _The Dharma Siblings_. It hosts community guidelines, curated recommendations, and practice-related inspiration.
+
+It is intended as an extension of our practice space—informal, evolving, and grounded in mutual respect and sincerity.
 
 ---
 
-© 2025 The Dharma Siblings. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+## 🕯️ How to Contribute
 
-You're welcome to share or adapt this compass for your own practice community, as long as it's non-commercial, you credit the source, and you share any changes under the same license.
+We welcome suggestions and contributions from group members.
+
+### 🧶 Non-technical contributors:
+If you'd like to recommend a resource (book, video, artwork, etc.), or suggest a change to site content, you can:
+- Contact **Erik** directly
+- Post in the group chat
+- Submit ideas during in-person meetings
+
+We'll do our best to update the site accordingly.
+
+### 👨‍💻 For those familiar with GitHub:
+- Fork this repository
+- Create a branch for your edits
+- Submit a pull request
+- We’ll review and merge it when appropriate
+
+Feel free to open issues for bugs, ideas, or questions.
+
+---
+
+## 📄 License
+
+© 2025 _The Dharma Siblings_
+
+This project is licensed under the  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+You are welcome to share or adapt this material for your own practice group, as long as it:
+- Is used for **non-commercial purposes**
+- Includes **attribution**
+- Is shared under the **same license**
+
+---
