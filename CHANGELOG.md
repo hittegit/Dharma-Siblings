@@ -17,6 +17,7 @@ This project follows a spirit of mindful versioning: changes are recorded to hel
 ## [v1.0.0] – 2025-05-02
 
 ### Added
+
 - Initial static site using GitHub Pages and Just the Docs theme
 - Custom logo and favicon asset added
 - Group Compass added as homepage
@@ -29,6 +30,7 @@ This project follows a spirit of mindful versioning: changes are recorded to hel
 - License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ### Infrastructure
+
 - CI/CD pipeline configured with:
   - Markdown lint (`markdownlint`)
   - YAML lint (`yamllint`)

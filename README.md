@@ -1,5 +1,4 @@
 <!-- markdownlint-disable-file MD041 -->
-
 <p align="center">
   <img src="assets/images/dharmaSiblings.png" alt="Dharma Siblings Logo" width="150"/>
 </p>

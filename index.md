@@ -43,4 +43,5 @@ Thank you for helping care for this container.
 **Your presence matters.**
 
 **Warm bows,**  
-*The Dharma Siblings* <br> 🙏🙇‍♀️🙇🙇‍♂️🙏<br>
+*The Dharma Siblings*   
+🙏🙇‍♀️🙇🙇‍♂️🙏
