@@ -8,3 +8,13 @@ matrix:
       word_lists:
         - en_US
         - ./allowlist.txt
+    filters:
+      - type: wordlist
+        ignore_case: true
+    pipeline:
+      - name: remove_code
+        regex: '(```.*?```|`.*?`)'
+        replacement: ''
+      - name: remove_urls
+        regex: '\bhttps?://[^\s\)\]]+'
+        replacement: ''
