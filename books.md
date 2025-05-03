@@ -43,8 +43,6 @@ We encourage offerings from a place of practice, curiosity, and respect. 🌿
 If you'd like to recommend a book, consider including:
 
 - Title and author
-- A link to a publisher or bookstore (if possible)
-- A short note on how it supported your practice
 
 Recommendations can be shared in the group, and we’ll do our best to keep this page updated.
 

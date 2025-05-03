@@ -3,6 +3,8 @@
 # Dharma-Siblings
 A static site for serving content to the unofficial Houston Zen student group
 
+If you'd like to contribute in any way, and are unfamiliar with GitHub, please contact Erik for instruction.
+
 ---
 
 © 2025 The Dharma Siblings. This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).

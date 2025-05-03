@@ -8,8 +8,8 @@ nav_order: 3
 
 A gallery of shared inspiration:
 
-- *Ryōkan’s Calligraphy* – [https://www.artnet.com/artists/ryokan/](#)
-- *The Woodblock Prints of Hiroshige* – [https://www.hiroshige.org.uk/](#)
+- [*Ryōkan’s Calligraphy*](https://www.artnet.com/artists/ryokan/)
+- [*The Woodblock Prints of Hiroshige*](https://www.hiroshige.org.uk/)
 
 ---
 
