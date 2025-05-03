@@ -6,7 +6,8 @@ nav_order: 2
 
 # Community-Recommended Video and Film
 
-A living list of multimedia our sangha has found meaningful:
+A living list of multimedia our sangha has found meaningful.
+Tip: If the embedded video isn't working, try clearing your cookies and cache.
 
 ---
 
