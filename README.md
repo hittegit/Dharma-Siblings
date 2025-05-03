@@ -1,6 +1,7 @@
+# Dharma-Siblings
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-# Dharma-Siblings
 A static site for serving content to the unofficial Houston Zen student group
 
 If you'd like to contribute in any way, and are unfamiliar with GitHub, please contact Erik for instruction.

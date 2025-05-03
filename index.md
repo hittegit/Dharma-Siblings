@@ -12,7 +12,8 @@ Our shared intention is to foster a space of mutual respect, warmth, and sinceri
 
 ---
 
-## We Will:
+## We Will
+
 - Uphold the [Houston Zen Center community guidelines](https://houstonzen.org/ethical-guidelines-and-procedures).
 - Speak from personal experience, practicing **Right Speech**:  
   Is it *true*, *timely*, *gentle*, *beneficial*, and spoken with a mind of goodwill?
@@ -20,10 +21,10 @@ Our shared intention is to foster a space of mutual respect, warmth, and sinceri
 - Be receptive to the unfolding of the Dharma in one another's lives.
 - Cultivate gratitude as an expression of our vows, allowing the precepts to gently inform how we show up for one another.
 
-
 ---
 
-## We Won’t:
+## We Won’t
+
 - Assume this space is private.  
   *If you wish to share something sensitive or deeply personal, please do so in a private conversation or in person, where deeper trust can be established.*
 - Rely on this space for therapeutic support, crisis processing, or end-of-life contemplation.  
@@ -34,7 +35,7 @@ Our shared intention is to foster a space of mutual respect, warmth, and sinceri
 
 ---
 
-## A Living Container
+### A Living Container
 
 This is a collaborative space. The compass is here to **guide**, not to **police**, and may evolve as we grow.
 
