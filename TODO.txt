@@ -11,3 +11,5 @@ Repo cleanup: sub-directories for markdown files?
 Additional categories in the navbar? Expanded categories?
 
 Embed the rest of the videos
+
+release tags, changelog reqs
