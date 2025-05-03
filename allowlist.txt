@@ -22,12 +22,15 @@ Dokugo
 Dokusan
 Dukkha
 Fukanzazengi
+Gak
 Gassho
 Genjokoan
+Haidt
 Hakuin
 Han
 Hanh
 Hishiryo
+Hyon
 Ino
 Jikido
 Jizo
@@ -39,6 +42,7 @@ Kensho
 Kesa
 Kinhin
 Koan
+Leor
 Madhyamaka
 Mahaprajna
 Maitreya
@@ -83,6 +87,7 @@ Shuso
 Sila
 Six
 Soto
+Sunim
 Sutra
 Sutras
 Tan
@@ -98,9 +103,11 @@ Upekkha
 Uchiyama
 Vajra
 Vajrayana
+Ven.
 Vinaya
 Vipassana
 Zazen
 Zendo
 Zenki
+Zmigrod
 Zuise

@@ -20,6 +20,7 @@ A living list of multimedia our sangha has found meaningful:
 ## Video
 
 - [*How To Find Peace in a Chaotic World*](https://www.youtube.com/watch?v=Nz2-u2ZzrRE) - Jason Quinn Zen
+- [*The Zen of Perception: Mastering Suffering and Pain*](https://www.youtube.com/watch?v=vqSRwf-76H4) - TED Talk by Ven. Hyon Gak Sunim
 
 ### 🎥 How to Contribute
 

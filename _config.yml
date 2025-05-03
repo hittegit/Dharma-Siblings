@@ -11,8 +11,8 @@ nav:
     url: /video-and-film
   - title: Artwork
     url: /artwork
-  - title: Books
-    url: /books
+  - title: Literature
+    url: /literature
 
 just_the_docs:
   custom_css:
