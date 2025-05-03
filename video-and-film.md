@@ -12,7 +12,15 @@ A living list of multimedia our sangha has found meaningful:
 
 ## Film
 
-- *Zen for Nothing*
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/example"
+  title="Zen for Nothing"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
+- [*Zen for Nothing*](https://www.youtube.com/watch?v=H2Gz1ikHruQ&pp=ygUUemVuIGZvciBub3RoaW5nIGZpbG0%3D)
 - *Spring, Summer, Fall, Winter... and Spring*
 
 ---
