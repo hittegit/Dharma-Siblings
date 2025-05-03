@@ -1,0 +1,7 @@
+More CI?
+
+Sutras category, books subsection or standalone?
+
+Repo cleanup: sub-directories for markdown files?
+
+Additional categories in the navbar? Expanded categories?
