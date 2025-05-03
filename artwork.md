@@ -4,7 +4,7 @@ title: Artwork
 nav_order: 3
 ---
 
-## Community-Recommended Art
+# Community-Recommended Art
 
 A gallery of shared inspiration:
 
@@ -13,7 +13,7 @@ A gallery of shared inspiration:
 
 ---
 
-#### 🖼️ How to Contribute
+## 🖼️ How to Contribute
 
 To suggest artwork for inclusion, feel free to provide:
 
