@@ -12,12 +12,6 @@ A living list of multimedia our sangha has found meaningful:
 
 ## Film
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/H2Gz1ikHruQ"
-  frameborder="0"
-  allowfullscreen>
-</iframe>
-
 - [*Zen for Nothing*](https://www.youtube.com/watch?v=H2Gz1ikHruQ&pp=ygUUemVuIGZvciBub3RoaW5nIGZpbG0%3D)
 - *Spring, Summer, Fall, Winter... and Spring*
 
@@ -27,6 +21,14 @@ A living list of multimedia our sangha has found meaningful:
 
 - [*How To Find Peace in a Chaotic World*](https://www.youtube.com/watch?v=Nz2-u2ZzrRE) - Jason Quinn Zen
 - [*The Zen of Perception: Mastering Suffering and Pain*](https://www.youtube.com/watch?v=vqSRwf-76H4) - TED Talk by Ven. Hyon Gak Sunim
+
+---
+
+## Embed Testing
+
+- *The Point of Zazen*
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qcvWYqfohr8?si=WFt_O4-AARZg4k2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 🎥 How to Contribute
 
