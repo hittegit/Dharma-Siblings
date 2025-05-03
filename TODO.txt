@@ -10,4 +10,4 @@ Repo cleanup: sub-directories for markdown files?
 
 Additional categories in the navbar? Expanded categories?
 
-Embedded videos
+Embed the rest of the videos

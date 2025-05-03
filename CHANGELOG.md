@@ -19,15 +19,36 @@ This project follows a spirit of mindful versioning: changes are recorded to hel
 ### Added
 
 - Initial static site using GitHub Pages and Just the Docs theme
-- Custom logo and favicon asset added
 - Group Compass added as homepage
 - Sidebar navigation enabled for:
   - Compass
   - Video and Film
   - Artwork
   - Literature
-- Community recommendations formatting (per section) standardized
+- Project status badges added to README:
+  - Link check
+  - Markdown lint
+  - YAML lint
+- `CONTRIBUTING.md` added with technical and non-technical contribution guidance
+- `CHANGELOG.md` initialized to track site evolution
+- `TODO.txt` added for roadmap planning
+- `.editorconfig` added to ensure consistent formatting
+- Custom logo and favicon added and configured in theme
+- Submission guidelines added to content pages (e.g., how to suggest artwork, literature, or film)
+- Community recommendation sections expanded with categorized entries
 - License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+- Experimental video embed with YouTube fallback support using linked thumbnails
+
+### Changed
+
+- `books.md` renamed to `literature.md`; config and links updated accordingly
+- Markdown structure cleaned to satisfy `markdownlint` rules
+- Heading levels and visual scale adjusted using theme's Sass overrides
+- README restructured to include purpose, license, project badges, logo, and contribution instructions
+
+### Removed
+
+- Spell check CI job (determined unnecessary given group needs and maintainability)
 
 ### Infrastructure
 
@@ -35,9 +56,7 @@ This project follows a spirit of mindful versioning: changes are recorded to hel
   - Markdown lint (`markdownlint`)
   - YAML lint (`yamllint`)
   - Link checking (`lychee`)
-- Spell check integration added and later removed for simplicity and tone alignment
-- `.editorconfig` added for consistent formatting
-- README restructured with badges, contribution guide, and logo support
+- Future deploy gating explored; staging branch under consideration
 
 ---
 
