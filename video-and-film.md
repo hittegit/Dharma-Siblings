@@ -28,7 +28,7 @@ A living list of multimedia our sangha has found meaningful:
 
 - *The Point of Zazen*
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qcvWYqfohr8?si=WFt_O4-AARZg4k2G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qcvWYqfohr8?si=WFt_O4-AARZg4k2G" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 🎥 How to Contribute
 
