@@ -9,14 +9,12 @@ matrix:
         - en_US
         - ./allowlist.txt
       ignore_case: true
-    pipeline:
-      regex_code_cleanup:
-        type: regex
+    filters:
+      - type: regex
         options:
           pattern: '(```.*?```|`.*?`)'
           replacement: ''
-      regex_url_cleanup:
-        type: regex
+      - type: regex
         options:
           pattern: '\bhttps?://[^\s\)\]]+'
           replacement: ''

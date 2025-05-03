@@ -19,7 +19,6 @@ To suggest artwork for inclusion, feel free to provide:
 
 - The artist’s name and work title (if known)
 - A link to view the work (gallery, archive, etc.)
-- A short note on how it resonates with your practice or understanding of the Dharma
 
 Artistic contributions from group members are always welcome. Let us know, and we’ll add them to this gallery.
 
