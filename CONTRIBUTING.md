@@ -4,5 +4,5 @@ Please see the [README](./README.md#🌱-how-to-contribute) for guidance on shar
 
 This project is rooted in community practice. We welcome sincere input, whether via GitHub, email, or in-person conversations.
 
-Warm bows 🙏🙇‍♀️🙇🙇‍♂️🙏   
+Warm bows 🙏🙇‍♀️🙇🙇‍♂️🙏  
 — The Dharma Siblings

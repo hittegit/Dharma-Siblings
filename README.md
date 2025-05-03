@@ -1,4 +1,4 @@
-<!-- markdownlint-disable-file MD041 -->
+<!-- markdownlint-disable-file MD033 MD041 -->
 <p align="center">
   <img src="assets/images/dharmaSiblings.png" alt="Dharma Siblings Logo" width="150"/>
 </p>
@@ -27,7 +27,8 @@ It is intended as an extension of our practice space—informal, evolving, and g
 
 We welcome suggestions and contributions from group members.
 
-### 🧶 Non-technical contributors:
+### 🧶 Non-technical contributors
+
 If you'd like to recommend a resource (book, video, artwork, etc.), or suggest a change to site content, you can:
 - Contact **Erik** directly
 - Post in the group chat
@@ -35,7 +36,8 @@ If you'd like to recommend a resource (book, video, artwork, etc.), or suggest a
 
 We'll do our best to update the site accordingly.
 
-### 👨‍💻 For those familiar with GitHub:
+### 👨‍💻 For those familiar with GitHub
+
 - Fork this repository
 - Create a branch for your edits
 - Submit a pull request
@@ -53,6 +55,7 @@ This project is licensed under the
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 You are welcome to share or adapt this material for your own practice group, as long as it:
+
 - Is used for **non-commercial purposes**
 - Includes **attribution**
 - Is shared under the **same license**
