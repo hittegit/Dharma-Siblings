@@ -27,7 +27,8 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 
 ## Embed Testing
 
-- *The Point of Zazen*
+- *The Point of Zazen* - Mary Carol Edwards
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qcvWYqfohr8?si=WFt_O4-AARZg4k2G" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
