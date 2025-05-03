@@ -4,14 +4,14 @@ title: Books
 nav_order: 4
 ---
 
-# Community-Recommended Books
+## Community-Recommended Books
 
 A shared shelf of texts that have inspired, guided, or challenged members of our sangha.  
 We encourage offerings from a place of practice, curiosity, and respect. 🌿
 
 ---
 
-### 📚 Zen and Buddhist Teachings
+#### 📚 Zen and Buddhist Teachings
 
 - *Opening the Hand of Thought* – Kōshō Uchiyama Roshi  
 - *Being Upright* – Reb Anderson  
@@ -22,14 +22,14 @@ We encourage offerings from a place of practice, curiosity, and respect. 🌿
 
 ---
 
-### 🧘 Memoir and Personal Practice
+#### 🧘 Memoir and Personal Practice
 
 - *The Novice* – Thich Nhat Hanh  
 - *The Zen of Therapy* – Mark Epstein  
 
 ---
 
-### 🕊️ Poetry, Art, and Literature in the Spirit of Practice
+#### 🕊️ Poetry, Art, and Literature in the Spirit of Practice
 
 - *Sky Above, Great Wind* – Kazuaki Tanahashi  
 - *One Robe, One Bowl* – Ryōkan  
@@ -38,7 +38,7 @@ We encourage offerings from a place of practice, curiosity, and respect. 🌿
 
 ---
 
-### 📖 How to Contribute
+#### 📖 How to Contribute
 
 If you'd like to recommend a book, consider including:
 

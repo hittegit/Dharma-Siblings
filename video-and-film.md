@@ -4,7 +4,7 @@ title: Video and Film
 nav_order: 2
 ---
 
-# Community-Recommended Video and Film
+## Community-Recommended Video and Film
 
 A living list of multimedia our sangha has found meaningful:
 

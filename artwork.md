@@ -4,7 +4,7 @@ title: Artwork
 nav_order: 3
 ---
 
-# Community-Recommended Art
+## Community-Recommended Art
 
 A gallery of shared inspiration:
 
