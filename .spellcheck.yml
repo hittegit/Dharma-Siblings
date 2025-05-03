@@ -12,11 +12,11 @@ matrix:
       - type: wordlist
         ignore_case: true
     pipeline:
-      - name: remove_code
+      remove_code:
         options:
           regex: '(```.*?```|`.*?`)'
           replacement: ''
-      - name: remove_urls
+      remove_urls:
         options:
           regex: '\bhttps?://[^\s\)\]]+'
           replacement: ''
