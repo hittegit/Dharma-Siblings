@@ -30,6 +30,7 @@ We welcome suggestions and contributions from group members.
 ### 🧶 Non-technical contributors
 
 If you'd like to recommend a resource (book, video, artwork, etc.), or suggest a change to site content, you can:
+
 - Contact **Erik** directly
 - Post in the group chat
 - Submit ideas during in-person meetings
