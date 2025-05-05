@@ -11,20 +11,17 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 
 ---
 
-### 📑 Table of Contents
+## 📑 Table of Contents
 
-    - [📑 Table of Contents](#-table-of-contents)
-- [Community-Recommended Video and Film](#community-recommended-video-and-film)
-    - [📑 Table of Contents](#-table-of-contents)
   - [Film](#film)
   - [Video](#video)
   - [Branching Streams Affiliate Channels](#branching-streams-affiliate-channels)
-    - [🎥 How to Contribute](#-how-to-contribute)
+  - [🎥 How to Contribute](#-how-to-contribute)
 
 ---
 
 
-## Film
+### Film
 
 - [*Zen for Nothing*](https://www.youtube.com/watch?v=H2Gz1ikHruQ&pp=ygUUemVuIGZvciBub3RoaW5nIGZpbG0%3D)
 
@@ -94,7 +91,7 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 
 ---
 
-## Video
+### Video
 
 - [*How To Find Peace in a Chaotic World*](https://www.youtube.com/watch?v=Nz2-u2ZzrRE) - Jason Quinn Zen
 
@@ -116,7 +113,7 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 
 ---
 
-## Branching Streams Affiliate Channels
+### Branching Streams Affiliate Channels
 
 Here are some YouTube channels from SFZC and its Branching Streams affiliate centers:
 

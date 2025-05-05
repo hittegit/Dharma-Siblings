@@ -45,3 +45,13 @@ Thank you for helping care for this container.
 **Warm bows,**  
 *The Dharma Siblings*  
 🙏🙇‍♀️🙇🙇‍♂️🙏
+
+---
+
+### 🔗 Quick Links
+
+- [🎨 Artwork](/artwork)
+- [🎥 Video and Film](/video-and-film)
+- [📚 Literature](/literature)
+
+---

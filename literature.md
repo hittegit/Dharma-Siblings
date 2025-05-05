@@ -11,7 +11,17 @@ We encourage offerings from a place of practice, curiosity, and respect. 🌿
 
 ---
 
-## 📚 Zen and Buddhist Teachings
+## 📑 Table of Contents
+
+  - [📚 Zen and Buddhist Teachings](#-zen-and-buddhist-teachings)
+  - [🧘 Memoir and Personal Practice](#-memoir-and-personal-practice)
+  - [🕊️ Poetry, and Literature in the Spirit of Practice](#️-poetry-and-literature-in-the-spirit-of-practice)
+  - [🧠 The Sciences](#-the-sciences)
+  - [📖 How to Contribute](#-how-to-contribute)
+
+---
+
+### 📚 Zen and Buddhist Teachings
 
 - *Opening the Hand of Thought* - Kōshō Uchiyama Roshi  
 - *Being Upright* - Reb Anderson  
@@ -23,14 +33,14 @@ We encourage offerings from a place of practice, curiosity, and respect. 🌿
 
 ---
 
-## 🧘 Memoir and Personal Practice
+### 🧘 Memoir and Personal Practice
 
 - *The Novice* - Thich Nhat Hanh  
 - *The Zen of Therapy* - Mark Epstein  
 
 ---
 
-## 🕊️ Poetry, and Literature in the Spirit of Practice
+### 🕊️ Poetry, and Literature in the Spirit of Practice
 
 - *Sky Above, Great Wind* - Kazuaki Tanahashi  
 - *One Robe, One Bowl* - Ryōkan  
@@ -39,7 +49,7 @@ We encourage offerings from a place of practice, curiosity, and respect. 🌿
 
 ---
 
-## 🧠 The Sciences
+### 🧠 The Sciences
 
 - *The Ideological Brain* - Leor Zmigrod
 - *The Happiness Hypothesis* - Jonathan Haidt
