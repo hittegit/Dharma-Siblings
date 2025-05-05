@@ -13,11 +13,11 @@ We encourage offerings from a place of practice, curiosity, and respect. 🌿
 
 ## 📑 Table of Contents
 
-  - [📚 Zen and Buddhist Teachings](#-zen-and-buddhist-teachings)
-  - [🧘 Memoir and Personal Practice](#-memoir-and-personal-practice)
-  - [🕊️ Poetry, and Literature in the Spirit of Practice](#️-poetry-and-literature-in-the-spirit-of-practice)
-  - [🧠 The Sciences](#-the-sciences)
-  - [📖 How to Contribute](#-how-to-contribute)
+- [📚 Zen and Buddhist Teachings](#-zen-and-buddhist-teachings)
+- [🧘 Memoir and Personal Practice](#-memoir-and-personal-practice)
+- [🕊️ Poetry, and Literature in the Spirit of Practice](#️-poetry-and-literature-in-the-spirit-of-practice)
+- [🧠 The Sciences](#-the-sciences)
+- [📖 How to Contribute](#-how-to-contribute)
 
 ---
 

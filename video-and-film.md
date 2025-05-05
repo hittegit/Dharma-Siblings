@@ -13,13 +13,12 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 
 ## 📑 Table of Contents
 
-  - [Film](#film)
-  - [Video](#video)
-  - [Branching Streams Affiliate Channels](#branching-streams-affiliate-channels)
-  - [🎥 How to Contribute](#-how-to-contribute)
+- [Film](#film)
+- [Video](#video)
+- [Branching Streams Affiliate Channels](#branching-streams-affiliate-channels)
+- [🎥 How to Contribute](#-how-to-contribute)
 
 ---
-
 
 ### Film
 
