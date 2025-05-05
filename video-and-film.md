@@ -76,12 +76,6 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fU71rpL1RFM" title="The Mountain Path Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-- [*Zen Noir*](https://www.amazon.com/Zen-Noir-Zenmovie-LLC/dp/B0024BDTBU)
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5n1p9s3vZ9I" title="Zen Noir Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
 - [*Rivers and Tides*](https://www.amazon.com/Rivers-Tides-Andy-Goldsworthy/dp/B0010XIGLG)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
