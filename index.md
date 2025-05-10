@@ -50,8 +50,10 @@ Thank you for helping care for this container.
 
 ### 🔗 Quick Links
 
-- [🎨 Artwork](/artwork)
-- [🎥 Video and Film](/video-and-film)
-- [📚 Literature](/literature)
+- [Artwork](/artwork)
+- [Video and Film](/video-and-film)
+- [Literature](/literature)
+- [Liturgy](/liturgy)
+- [Recipes](/recipes)
 
 ---
