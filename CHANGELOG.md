@@ -14,6 +14,28 @@ This project follows a spirit of mindful versioning: changes are recorded to hel
 
 ---
 
+## [v1.1.0] – 2025-05-09
+
+### Added
+
+- **New content pages:**
+  - `liturgy.md` — a dedicated section for shared chants, sutras, and ceremonial materials.
+  - `recipes.md` — vegetarian recipes and practice-adjacent cooking inspiration, including embedded YouTube playlist.
+- **"Branching Streams Affiliate Channels"** section in `video-and-film.md` with links to SFZC-related sanghas.
+- Internal **table of contents** added to:
+  - `video-and-film.md`
+  - `artwork.md`
+  - `literature.md`
+- **Footer links** added to `index.md` for easy navigation.
+- Additional CI linting and formatting refinements.
+
+### Changed
+
+- Markdown structure in `video-and-film.md` and `literature.md` cleaned up to satisfy `markdownlint` rules (e.g., heading levels, list indentation, spacing).
+- Embedded video descriptions and sources revised for clarity and accuracy.
+
+---
+
 ## [v1.0.0] – 2025-05-02
 
 ### Added
