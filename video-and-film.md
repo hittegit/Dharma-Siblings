@@ -13,10 +13,12 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 
 ## 📑 Table of Contents
 
-- [Film](#film)
-- [Video](#video)
-- [Branching Streams Affiliate Channels](#branching-streams-affiliate-channels)
-- [🎥 How to Contribute](#-how-to-contribute)
+- [Community-Recommended Video and Film](#community-recommended-video-and-film)
+  - [📑 Table of Contents](#-table-of-contents)
+    - [Film](#film)
+    - [Video](#video)
+    - [Branching Streams Affiliate Channels](#branching-streams-affiliate-channels)
+    - [🎥 How to Contribute](#-how-to-contribute)
 
 ---
 
@@ -61,7 +63,7 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 - [*The Zen Mind*](https://www.kanopy.com/product/zen-mind)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2k1uOqRb0HU" title="The Zen Mind Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1LN2W9Yv2hU" title="The Zen Mind Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 - [*A Zen Life - D.T. Suzuki*](https://www.amazon.com/Zen-Life-D-T-Suzuki/dp/B0013HUWYS)
@@ -110,56 +112,56 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 
 Here are some YouTube channels from SFZC and its Branching Streams affiliate centers:
 
-- [San Francisco Zen Center (SFZC)](https://www.youtube.com/user/SFZenCenter)  
-  Offers Dharma talks, meditation sessions, and teachings from City Center, Green Gulch Farm, and Tassajara.
-
-- [City Center Dharma Talks – SFZC Playlist](https://www.youtube.com/playlist?list=PLCcQNCXygdxoQD_meyKG7rCimgyyj0Opp)  
-  A curated playlist of Dharma talks recorded at SFZC’s City Center.
-
-- [Austin Zen Center](https://www.youtube.com/@AustinZenCenter)  
-  Offers recorded talks and practice instructions.
-
-- [Berkeley Zen Center](https://www.youtube.com/@BerkeleyZenCenter)  
-  Dharma talks and teachings from the Berkeley sangha.
-
-- [Brooklyn Zen Center](https://www.youtube.com/@BrooklynZenCenter)  
-  Dharma talks, meditation guidance, and community events.
-
-- [Houston Zen Center](https://www.youtube.com/@HoustonZenCenter)  
-  Features talks and community teachings from Gaelyn Godwin Roshi and others.
-
-- [Santa Cruz Zen Center](https://www.youtube.com/@SantaCruzZenCenter)  
-  A library of recorded Dharma talks and retreats.
-
-- [Hartford Street Zen Center](https://www.youtube.com/@HartfordStreetZenCenter)  
-  Teachings from the Issan-ji temple community in San Francisco.
-
-- [Ancient Dragon Zen Gate (Chicago, IL)](https://www.youtube.com/@AncientDragonZenGate)  
-  Dharma talks and teachings from the Chicago-based sangha.
-
-- [Chapel Hill Zen Center (Chapel Hill, NC)](https://www.youtube.com/@ChapelHillZenCenter)  
-  Offers recorded talks and practice sessions from the North Carolina community.
-
-- [Vallejo Zen Center (Vallejo, CA)](https://www.youtube.com/@VallejoZenCenter)  
-  Shares Dharma talks and events from the Vallejo sangha.
-
-- [Ocean Gate Zen Center (Santa Cruz, CA)](https://www.youtube.com/@OceanGateZenCenter)  
-  Teachings and sessions from the Santa Cruz community.
-
-- [Akazienzendo (Berlin, Germany)](https://www.youtube.com/@AkazienzendoBerlin)  
+- [Akazienzendo (Berlin, Germany)](https://www.youtube.com/@AkazienzendoBerlin)
   Zen teachings and practice sessions from Berlin.
 
-- [Zen Heart Sangha (San Francisco Peninsula, CA)](https://www.youtube.com/@ZenHeartSangha)  
-  Dharma talks and practice guidance from the SF Peninsula community.
+- [Ancient Dragon Zen Gate (Chicago, IL)](https://www.youtube.com/@AncientDragonZenGate)
+  Dharma talks and teachings from the Chicago-based sangha.
 
-- [Black Mountain Zen Centre (Belfast, Northern Ireland)](https://www.youtube.com/@BlackMountainZenCentre)  
+- [Austin Zen Center](https://www.youtube.com/@AustinZenCenter)
+  Offers recorded talks and practice instructions.
+
+- [Berkeley Zen Center](https://www.youtube.com/@BerkeleyZenCenter)
+  Dharma talks and teachings from the Berkeley sangha.
+
+- [Black Mountain Zen Centre (Belfast, Northern Ireland)](https://www.youtube.com/@BlackMountainZenCentre)
   Teachings and community events from the Belfast-based sangha.
 
-- [Centro Zen L'Arco (Rome, Italy)](https://www.youtube.com/@CentroZenLArco)  
+- [Brooklyn Zen Center](https://www.youtube.com/@BrooklynZenCenter)
+  Dharma talks, meditation guidance, and community events.
+
+- [Centro Zen L'Arco (Rome, Italy)](https://www.youtube.com/@CentroZenLArco)
   Zen teachings and sessions from Rome.
 
-- [Montaña Despierta (Xalapa, Mexico)](https://www.youtube.com/@MontanaDespierta)  
+- [Chapel Hill Zen Center (Chapel Hill, NC)](https://www.youtube.com/@ChapelHillZenCenter)
+  Offers recorded talks and practice sessions from the North Carolina community.
+
+- [City Center Dharma Talks – SFZC Playlist](https://www.youtube.com/playlist?list=PLCcQNCXygdxoQD_meyKG7rCimgyyj0Opp)
+  A curated playlist of Dharma talks recorded at SFZC’s City Center.
+
+- [Hartford Street Zen Center](https://www.youtube.com/@HartfordStreetZenCenter)
+  Teachings from the Issan-ji temple community in San Francisco.
+
+- [Houston Zen Center](https://www.youtube.com/@HoustonZenCenter)
+  Features talks and community teachings from Gaelyn Godwin Roshi and others.
+
+- [Montaña Despierta (Xalapa, Mexico)](https://www.youtube.com/@MontanaDespierta)
   Dharma talks and teachings from the Xalapa-based sangha.
+
+- [Ocean Gate Zen Center (Santa Cruz, CA)](https://www.youtube.com/@OceanGateZenCenter)
+  Teachings and sessions from the Santa Cruz community.
+
+- [San Francisco Zen Center (SFZC)](https://www.youtube.com/user/SFZenCenter)
+  Offers Dharma talks, meditation sessions, and teachings from City Center, Green Gulch Farm, and Tassajara.
+
+- [Santa Cruz Zen Center](https://www.youtube.com/@SantaCruzZenCenter)
+  A library of recorded Dharma talks and retreats.
+
+- [Vallejo Zen Center (Vallejo, CA)](https://www.youtube.com/@VallejoZenCenter)
+  Shares Dharma talks and events from the Vallejo sangha.
+
+- [Zen Heart Sangha (San Francisco Peninsula, CA)](https://www.youtube.com/@ZenHeartSangha)
+  Dharma talks and practice guidance from the SF Peninsula community.
 
 ---
 
