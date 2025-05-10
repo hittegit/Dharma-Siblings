@@ -16,7 +16,7 @@ This project follows a spirit of mindful versioning: changes are recorded to hel
 
 ## [v1.1.0] – 2025-05-09
 
-### Added
+### Added (v1.1.0)
 
 - **New content pages:**
   - `liturgy.md` — a dedicated section for shared chants, sutras, and ceremonial materials.
@@ -29,7 +29,7 @@ This project follows a spirit of mindful versioning: changes are recorded to hel
 - **Footer links** added to `index.md` for easy navigation.
 - Additional CI linting and formatting refinements.
 
-### Changed
+### Changed (v1.1.0)
 
 - Markdown structure in `video-and-film.md` and `literature.md` cleaned up to satisfy `markdownlint` rules (e.g., heading levels, list indentation, spacing).
 - Embedded video descriptions and sources revised for clarity and accuracy.
@@ -38,7 +38,7 @@ This project follows a spirit of mindful versioning: changes are recorded to hel
 
 ## [v1.0.0] – 2025-05-02
 
-### Added
+### Added (v1.0.0)
 
 - Initial static site using GitHub Pages and Just the Docs theme
 - Group Compass added as homepage
@@ -61,18 +61,18 @@ This project follows a spirit of mindful versioning: changes are recorded to hel
 - License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 - Experimental video embed with YouTube fallback support using linked thumbnails
 
-### Changed
+### Changed (v1.0.0)
 
 - `books.md` renamed to `literature.md`; config and links updated accordingly
 - Markdown structure cleaned to satisfy `markdownlint` rules
 - Heading levels and visual scale adjusted using theme's Sass overrides
 - README restructured to include purpose, license, project badges, logo, and contribution instructions
 
-### Removed
+### Removed (v1.0.0)
 
 - Spell check CI job (determined unnecessary given group needs and maintainability)
 
-### Infrastructure
+### Infrastructure (v1.0.0)
 
 - CI/CD pipeline configured with:
   - Markdown lint (`markdownlint`)
