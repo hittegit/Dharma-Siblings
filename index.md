@@ -50,10 +50,10 @@ Thank you for helping care for this container.
 
 ### 🔗 Quick Links
 
-- [Artwork](/artwork)
-- [Video and Film](/video-and-film)
-- [Literature](/literature)
-- [Liturgy](/liturgy)
-- [Recipes](/recipes)
+- [Artwork]({{ site.baseurl }}/artwork)
+- [Video and Film]({{ site.baseurl }}/video-and-film)
+- [Literature]({{ site.baseurl }}/literature)
+- [Liturgy]({{ site.baseurl }}/liturgy)
+- [Recipes]({{ site.baseurl }}/recipes)
 
 ---
