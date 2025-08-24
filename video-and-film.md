@@ -112,6 +112,9 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 
 Here are some YouTube channels from SFZC and its Branching Streams affiliate centers:
 
+- [SOTOZENNET Channel](https://youtube.com/@sotozennet?si=pkMiWdy9nwIZVLNG)
+  Official YouTube channel of Soto Zen International
+
 - [Akazienzendo (Berlin, Germany)](https://www.youtube.com/@AkazienzendoBerlin)
   Zen teachings and practice sessions from Berlin.
 
@@ -162,6 +165,15 @@ Here are some YouTube channels from SFZC and its Branching Streams affiliate cen
 
 - [Zen Heart Sangha (San Francisco Peninsula, CA)](https://www.youtube.com/@ZenHeartSangha)
   Dharma talks and practice guidance from the SF Peninsula community.
+
+---
+
+### Other Websites
+
+Here are some other useful websites we've come across:
+
+- [Kokyo Henkel](https://kokyohenkel.weebly.com/)
+  Website of Kokyo Henkel Roshi, ordained by Tenshin Reb Anderson Roshi.
 
 ---
 
