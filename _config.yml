@@ -5,19 +5,16 @@ logo: "/assets/images/dharmaSiblings.png"
 color_scheme: light
 
 nav:
-  - title: Group Compass
-    url: /
   - title: Liturgy
-    url: /liturgy
+    url: /pages/liturgy
   - title: Video and Film
-    url: /video-and-film
+    url: /pages/video-and-film
   - title: Artwork
-    url: /artwork
+    url: /pages/artwork
   - title: Literature
-    url: /literature
+    url: /pages/literature
   - title: Recipes
-    url: /recipes
-
+    url: /pages/recipes
 
 just_the_docs:
   custom_css:
