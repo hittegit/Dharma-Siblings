@@ -2425,3 +2425,9 @@ a.skip-to-main { left: -999px; position: absolute; top: auto; width: 1px; height
 a.skip-to-main:focus, a.skip-to-main:active { color: #2c84fa; background-color: #27262b; left: auto; top: auto; width: 30%; height: auto; overflow: auto; margin: 10px 35%; padding: 5px; border-radius: 15px; border: 4px solid #264caf; text-align: center; font-size: 1.2em; z-index: 999; }
 
 div.opaque { background-color: #27262b; }
+
+/* Increase the logo in the site header */
+.site-header .site-logo, .site-header .site-logo img { height: 48px; /* tweak: 40–56px usually looks good */ width: auto; }
+
+/* Optional: keep header balanced when the logo grows */
+.site-header { min-height: 56px; /* adjust if the nav looks cramped */ }

@@ -1,0 +1,11 @@
+/* Increase the logo in the site header */
+.site-header .site-logo,
+.site-header .site-logo img {
+  height: 48px;   /* tweak: 40–56px usually looks good */
+  width: auto;
+}
+
+/* Optional: keep header balanced when the logo grows */
+.site-header {
+  min-height: 56px; /* adjust if the nav looks cramped */
+}
