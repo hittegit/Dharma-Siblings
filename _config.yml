@@ -1,7 +1,9 @@
+---
 title: Dharma Siblings
 description: A shared resource for our online sangha
 remote_theme: just-the-docs/just-the-docs
 logo: "/assets/images/dharmaSiblings.png"
+logo_width: 80
 color_scheme: light
 
 nav:
@@ -19,3 +21,22 @@ nav:
 just_the_docs:
   custom_css:
     - "/assets/css/just-the-docs.scss"
+
+exclude:
+  - AGENTS.md
+  - CHANGELOG.md
+  - CONTRIBUTING.md
+  - README.md
+  - SECURITY.md
+
+defaults:
+  - scope:
+      path: "AGENTS.md"
+    values:
+      nav_exclude: true
+      search_exclude: true
+  - scope:
+      path: "CHANGELOG.md"
+    values:
+      nav_exclude: true
+      search_exclude: true

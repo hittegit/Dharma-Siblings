@@ -14,25 +14,61 @@
 [![Link Check](https://github.com/hittegit/Dharma-Siblings/actions/workflows/check-links.yml/badge.svg)](https://github.com/hittegit/Dharma-Siblings/actions/workflows/check-links.yml)
 [![Markdown Lint](https://github.com/hittegit/Dharma-Siblings/actions/workflows/lint-markdown.yml/badge.svg)](https://github.com/hittegit/Dharma-Siblings/actions/workflows/lint-markdown.yml)
 [![YAML Lint](https://github.com/hittegit/Dharma-Siblings/actions/workflows/yamllint.yml/badge.svg)](https://github.com/hittegit/Dharma-Siblings/actions/workflows/yamllint.yml)
+[![Yardstick](https://github.com/hittegit/Dharma-Siblings/actions/workflows/yardstick.yml/badge.svg)](https://github.com/hittegit/Dharma-Siblings/actions/workflows/yardstick.yml)
 
 ---
 
-## 🧭 About This Project
+## Overview
 
 This site serves as a shared resource for the unofficial Houston Zen student group, *The Dharma Siblings*.
 It hosts community guidelines, curated recommendations, and practice-related inspiration.
 
-It is intended as an extension of our practice space—informal, evolving, and grounded in mutual respect and sincerity.
+It is intended as an extension of our practice space, informal, evolving, and grounded in mutual respect and sincerity.
 
 ---
 
-## 🔗 Site Sections
+## Installation
 
-- [🪷 Liturgy](/pages/liturgy)
-- [🎨 Artwork](/pages/artwork)
-- [🎥 Video and Film](/pages/video-and-film)
-- [📚 Literature](/pages/literature)
-- [🥗 Recipes](/pages/recipes)
+Install the project dependencies with Bundler:
+
+```bash
+bundle install
+```
+
+---
+
+## Usage
+
+Preview locally:
+
+```bash
+bundle exec jekyll serve --livereload
+```
+
+Build static output:
+
+```bash
+bundle exec jekyll build
+```
+
+Browse key content pages:
+
+- [🪷 Liturgy](pages/liturgy.md)
+- [🎨 Artwork](pages/artwork.md)
+- [🎥 Video and Film](pages/video-and-film.md)
+- [📚 Literature](pages/literature.md)
+- [🥗 Recipes](pages/recipes.md)
+
+---
+
+## CI
+
+This repository runs automated checks in GitHub Actions:
+
+- Link checking (`check-links.yml`)
+- Markdown linting (`lint-markdown.yml`)
+- YAML linting (`yamllint.yml`)
+- Repository policy checks (`yardstick.yml`)
 
 ---
 
@@ -61,7 +97,7 @@ Feel free to open issues for bugs, ideas, or questions.
 
 ---
 
-## 📄 License
+## License
 
 © 2025 *The Dharma Siblings*
 

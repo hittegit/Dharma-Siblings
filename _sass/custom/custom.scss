@@ -1,0 +1,16 @@
+/* Increase the logo in the site header */
+.site-header .site-logo {
+  height: 192px;
+  width: 100%;
+  background-size: contain;
+}
+
+.site-header .site-logo img {
+  height: 192px;
+  width: auto;
+}
+
+/* Optional: keep header balanced when the logo grows */
+.site-header {
+  min-height: 208px;
+}
