@@ -24,6 +24,7 @@ This guide outlines how to work inside the Dharma Siblings Jekyll site so contri
 ## Committing and Pushing Code
 
 Never commit or push anything without explicit permission from the user.
+Before merge, update `CHANGELOG.md` to reflect all user-facing, CI, or policy changes included in the PR.
 
 ## Testing Guidelines
 
