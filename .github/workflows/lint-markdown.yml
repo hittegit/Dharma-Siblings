@@ -1,6 +1,7 @@
+---
 name: Lint Markdown
 
-on:
+"on":
   pull_request:
   push:
     branches: [main]

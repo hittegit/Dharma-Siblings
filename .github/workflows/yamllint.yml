@@ -1,7 +1,8 @@
 # .github/workflows/yamllint.yml
+---
 name: Lint YAML
 
-on:
+"on":
   push:
     paths:
       - '**/*.yml'
