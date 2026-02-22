@@ -19,10 +19,12 @@ Changed
 
 - `AGENTS.md` expanded with explicit lint/test expectations, local rendering checks, and local Yardstick command guidance.
 - `_config.yml` updated to exclude `AGENTS.md` and `CHANGELOG.md` from generated site output and nav/search indexing.
+- `_config.yml` exclusion list expanded so root-level repository docs (`README.md`, `CONTRIBUTING.md`, `SECURITY.md`) are not published as site pages.
 - `_sass/custom/custom.scss` updated to restore visible logo rendering and increase header logo display size.
 - `README.md` updated to include `Overview`, `Installation`, `Usage`, `CI`, and `License` sections expected by repository policy checks.
 - README links updated to repository-relative markdown targets (`pages/*.md`) for policy compatibility.
 - GitHub workflow YAML files normalized for lint compliance (`---` document starts and quoted `"on"` keys where applicable).
+- YAML lint workflow trigger adjusted to avoid duplicate `yaml-lint` runs on PRs by limiting `push` trigger to `main`.
 
 Removed
 
