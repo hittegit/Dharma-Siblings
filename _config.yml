@@ -25,6 +25,9 @@ just_the_docs:
 exclude:
   - AGENTS.md
   - CHANGELOG.md
+  - CONTRIBUTING.md
+  - README.md
+  - SECURITY.md
 
 defaults:
   - scope:
