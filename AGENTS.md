@@ -14,6 +14,7 @@ This guide outlines how to work inside the Dharma Siblings Jekyll site so contri
 - `markdownlint "**/*.md"` - same Markdown gate used in CI (install via `npm install -g markdownlint-cli`).
 - `yamllint .` - run YAML linting across workflow files and site config.
 - `jq . renovate.json > /dev/null` - validate JSON-based configuration files before committing.
+- `yardstick -path . -format table` - run repository policy checks locally when validating CI/config hygiene.
 - `lychee --verbose --exclude-mail --timeout 20 "**/*.md"` - optional local link checking; run when link changes are in scope.
 
 ## Coding Style & Naming Conventions

@@ -1,0 +1,29 @@
+---
+name: Yardstick
+
+"on":
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  yardstick:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-go@v6
+        with:
+          go-version: "1.22.x"
+
+      - name: Install pinned yardstick release
+        run: go install github.com/hittegit/yardstick@v0.2.0
+
+      - name: Run yardstick and save JSON report
+        run: |
+          yardstick -path . -format json > yardstick.json
+          cat yardstick.json
+
+      - name: Fail build when errors are present
+        run: |
+          test "$(jq -r '.counts.error' yardstick.json)" = "0"
