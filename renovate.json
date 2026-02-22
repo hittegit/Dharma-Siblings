@@ -1,13 +1,12 @@
-• {
+{
     "$schema": "https://docs.renovatebot.com/renovate-schema.json",
     "extends": ["config:recommended"],
     "regexManagers": [
       {
         "fileMatch": ["^\\.github/workflows/.*\\.ya?ml$"],
-        "matchStrings": [
-          "go install github\\.com/hittegit/yardstick@(?<currentValue>v\
-  \d+\\.\\d+\\.\\d+)"
-        ],
+  "matchStrings": [
+    "go install github\\.com/hittegit/yardstick@(?<currentValue>v\\d+\\.\\d+\\.\\d+)"
+  ],
         "depNameTemplate": "github.com/hittegit/yardstick",
         "datasourceTemplate": "go"
       }
