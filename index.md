@@ -49,8 +49,8 @@ Thank you for helping care for this container.
 
 ## 🔗 Quick Links
 
-- [🎨 Artwork](/pages/artwork)
-- [🎥 Video and Film](/pages/video-and-film)
-- [📚 Literature](/pages/literature)
-- [🪷 Liturgy](/pages/liturgy)
-- [🥗 Recipes](/pages/recipes)
+- [🎨 Artwork]({{ '/pages/artwork' | relative_url }})
+- [🎥 Video and Film]({{ '/pages/video-and-film' | relative_url }})
+- [📚 Literature]({{ '/pages/literature' | relative_url }})
+- [🪷 Liturgy]({{ '/pages/liturgy' | relative_url }})
+- [🥗 Recipes]({{ '/pages/recipes' | relative_url }})
