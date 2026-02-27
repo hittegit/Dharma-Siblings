@@ -11,3 +11,14 @@ Additional categories in the navbar? Expanded categories?
 Embed the rest of the videos (embed organization?)
 
 release tags, changelog reqs, protected branch, etc
+
+Broken links by page (format: description of URL: URL)
+
+## pages/video-and-film.md
+Spring, Summer, Fall, Winter, and Spring
+Zen (2009)
+Why Has Bodhi-Dharma Left for the East
+The Mountain Path - Ed Burger link needs to be added
+
+AFTER FIXING THESE LINKS:
+    Find alternatives to Amazon listings, preferring publisher listings

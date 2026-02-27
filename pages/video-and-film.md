@@ -30,16 +30,16 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/H2Gz1ikHruQ?si=S1CUYdQzL0g4dcsP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-- [*Spring, Summer, Fall, Winter... and Spring*](https://www.youtube.com/watch?v=3rIgudJbHek)
+- [*Spring, Summer, Fall, Winter... and Spring*](https://www.youtube.com/watch?v=2Jd-n2cFrvM)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3rIgudJbHek?si=DTVbkwAffmPEt9RN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2Jd-n2cFrvM?si=KX7Y0VnD7_-0lGAP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-- [*Zen* (2009)](https://www.amazon.com/Zen-English-Subtitled-Kantaro-Nakamura/dp/B00B4YH9ZK)
+- [*Zen* (2009)](https://www.imdb.com/title/tt1265998/)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A7eAEZyfJHg" title="Zen (2009) Full Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pwKXTj1IQUc?si=2V5uGbsuYh6AoYty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 - [*One Mind*](https://vimeo.com/ondemand/onemindfilm)
@@ -51,7 +51,7 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 - [*Why Has Bodhi-Dharma Left for the East?*](https://www.kanopy.com/product/why-has-bodhi-dharma-left-east)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-qpE6PnzgZY" title="Why Has Bodhi-Dharma Left for the East? Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IBKeCVjFPdY?si=a7ay4QduQkHEZIf1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 - [*Amongst White Clouds*](https://www.amazon.com/Amongst-Clouds-Chinese-Buddhist-hermit/dp/B000S76VHQ)
@@ -75,7 +75,7 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 - [*The Mountain Path*](https://www.amazon.com/Mountain-Buddhist-Hermits-Zhongnan-Mountains/dp/B0B8TJTGT5)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fU71rpL1RFM" title="The Mountain Path Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JmoYQ5nHgCo?si=tVRm9Nb8IlQ9Ymrn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 - [*Rivers and Tides*](https://www.amazon.com/Rivers-Tides-Andy-Goldsworthy/dp/B0010XIGLG)
@@ -110,7 +110,7 @@ Tip: If the embedded video isn't working, try clearing your cookies and cache.
 
 ### Branching Streams Affiliate Channels
 
-Here are some YouTube channels from SFZC and its Branching Streams affiliate centers:
+Here are official channels or websites from SFZC and its Branching Streams affiliate centers:
 
 - [SOTOZENNET Channel](https://youtube.com/@sotozennet?si=pkMiWdy9nwIZVLNG)
   Official YouTube channel of Soto Zen International
@@ -118,16 +118,16 @@ Here are some YouTube channels from SFZC and its Branching Streams affiliate cen
 - [Akazienzendo (Berlin, Germany)](https://www.youtube.com/@AkazienzendoBerlin)
   Zen teachings and practice sessions from Berlin.
 
-- [Ancient Dragon Zen Gate (Chicago, IL)](https://www.youtube.com/@AncientDragonZenGate)
+- [Ancient Dragon Zen Gate (Chicago, IL)](https://www.ancientdragon.org/)
   Dharma talks and teachings from the Chicago-based sangha.
 
-- [Austin Zen Center](https://www.youtube.com/@AustinZenCenter)
+- [Austin Zen Center](https://austinzencenter.org/)
   Offers recorded talks and practice instructions.
 
-- [Berkeley Zen Center](https://www.youtube.com/@BerkeleyZenCenter)
+- [Berkeley Zen Center](https://www.youtube.com/channel/UC2UKL6vJNCB4c5DVkeK4C0w/playlists)
   Dharma talks and teachings from the Berkeley sangha.
 
-- [Black Mountain Zen Centre (Belfast, Northern Ireland)](https://www.youtube.com/@BlackMountainZenCentre)
+- [Black Mountain Zen Centre (Belfast, Northern Ireland)](https://bmzcbelfast.org/)
   Teachings and community events from the Belfast-based sangha.
 
 - [Brooklyn Zen Center](https://www.youtube.com/@BrooklynZenCenter)
@@ -136,19 +136,19 @@ Here are some YouTube channels from SFZC and its Branching Streams affiliate cen
 - [Centro Zen L'Arco (Rome, Italy)](https://www.youtube.com/@CentroZenLArco)
   Zen teachings and sessions from Rome.
 
-- [Chapel Hill Zen Center (Chapel Hill, NC)](https://www.youtube.com/@ChapelHillZenCenter)
+- [Chapel Hill Zen Center (Chapel Hill, NC)](https://www.chzc.org/)
   Offers recorded talks and practice sessions from the North Carolina community.
 
 - [City Center Dharma Talks – SFZC Playlist](https://www.youtube.com/playlist?list=PLCcQNCXygdxoQD_meyKG7rCimgyyj0Opp)
   A curated playlist of Dharma talks recorded at SFZC’s City Center.
 
-- [Hartford Street Zen Center](https://www.youtube.com/@HartfordStreetZenCenter)
+- [Hartford Street Zen Center](https://www.szba.org/hartford-street-zen-center)
   Teachings from the Issan-ji temple community in San Francisco.
 
 - [Houston Zen Center](https://www.youtube.com/@HoustonZenCenter)
   Features talks and community teachings from Gaelyn Godwin Roshi and others.
 
-- [Montaña Despierta (Xalapa, Mexico)](https://www.youtube.com/@MontanaDespierta)
+- [Montaña Despierta (Xalapa, Mexico)](https://mdzen.com/)
   Dharma talks and teachings from the Xalapa-based sangha.
 
 - [Ocean Gate Zen Center (Santa Cruz, CA)](https://www.youtube.com/@OceanGateZenCenter)
@@ -157,13 +157,13 @@ Here are some YouTube channels from SFZC and its Branching Streams affiliate cen
 - [San Francisco Zen Center (SFZC)](https://www.youtube.com/user/SFZenCenter)
   Offers Dharma talks, meditation sessions, and teachings from City Center, Green Gulch Farm, and Tassajara.
 
-- [Santa Cruz Zen Center](https://www.youtube.com/@SantaCruzZenCenter)
+- [Santa Cruz Zen Center](https://sczc.org/)
   A library of recorded Dharma talks and retreats.
 
-- [Vallejo Zen Center (Vallejo, CA)](https://www.youtube.com/@VallejoZenCenter)
+- [Vallejo Zen Center (Vallejo, CA)](https://www.vallejozencenter.org/)
   Shares Dharma talks and events from the Vallejo sangha.
 
-- [Zen Heart Sangha (San Francisco Peninsula, CA)](https://www.youtube.com/@ZenHeartSangha)
+- [Zen Heart Sangha (San Francisco Peninsula, CA)](https://www.zenheartsangha.org/)
   Dharma talks and practice guidance from the SF Peninsula community.
 
 ---

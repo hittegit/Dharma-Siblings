@@ -28,13 +28,13 @@ Before merge, update `CHANGELOG.md` to reflect all user-facing, CI, or policy ch
 
 ## Testing Guidelines
 
-Treat local rendering checks as required for content, navigation, or styling changes:
+Follow [`TESTING.md`](/home/ejh/Repos/Dharma-Siblings/TESTING.md) as the required source of truth for local verification before opening or merging a PR.
 
-- Start the site with `bundle exec jekyll serve --livereload`.
-- Open each primary page (`/`, `/pages/liturgy`, `/pages/video-and-film`, `/pages/artwork`, `/pages/literature`, `/pages/recipes`) and confirm layout, navigation, and media embeds render correctly.
-- Confirm changed pages on both desktop-width and mobile-width viewports.
-
-After visual checks, run `markdownlint`, `yamllint`, and `bundle exec jekyll build` before opening a PR. Run Lychee when link checks are in scope. Use descriptive section headings (`## Practice Resources - Chanting`) so anchor links remain stable. When referencing downloads or images, ensure the file exists under `assets/` and the relative path works locally.
+- Treat manual local rendering checks as mandatory for content, navigation, and styling changes.
+- Treat lint/build checks in `TESTING.md` as required PR gates.
+- Run Lychee when link checks are in scope.
+- Use descriptive section headings (`## Practice Resources - Chanting`) so anchor links remain stable.
+- When referencing downloads or images, ensure the file exists under `assets/` and the relative path works locally.
 
 ## Linting Scope for Config Files
 

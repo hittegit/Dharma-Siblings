@@ -14,10 +14,16 @@ Added
 - `CODEOWNERS` with default repository ownership rule.
 - `SECURITY.md` with vulnerability reporting guidance.
 - Yardstick badge in `README.md` project status section.
+- `TESTING.md` with explicit local rendering checks, required validation commands, and merge-readiness checklist.
 
 Changed
 
 - `AGENTS.md` expanded with explicit lint/test expectations, local rendering checks, and local Yardstick command guidance.
+- `AGENTS.md` testing section now references `TESTING.md` as the required local verification source of truth.
+- `pages/video-and-film.md` broken media links were replaced with working video embeds and verified official channel/center links.
+- `pages/liturgy.md` broken and outdated resource links were refreshed across liturgy, sutra, and study sections.
+- `pages/recipes.md` embedded video URL parameters were updated to a working variant.
+- `TODO.txt` link-repair notes were reorganized for ongoing broken-link triage.
 - `_config.yml` updated to exclude `AGENTS.md` and `CHANGELOG.md` from generated site output and nav/search indexing.
 - `_config.yml` exclusion list expanded so root-level repository docs (`README.md`, `CONTRIBUTING.md`, `SECURITY.md`) are not published as site pages.
 - `_sass/custom/custom.scss` updated to restore visible logo rendering and increase header logo display size.
