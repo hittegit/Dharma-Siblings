@@ -26,6 +26,7 @@ Changed
 - `TODO.txt` link-repair notes were reorganized for ongoing broken-link triage.
 - `_config.yml` updated to exclude `AGENTS.md` and `CHANGELOG.md` from generated site output and nav/search indexing.
 - `_config.yml` exclusion list expanded so root-level repository docs (`README.md`, `CONTRIBUTING.md`, `SECURITY.md`) are not published as site pages.
+- `_config.yml` exclusion/defaults updated to keep `TESTING.md` out of published navigation and search.
 - `_sass/custom/custom.scss` updated to restore visible logo rendering and increase header logo display size.
 - `README.md` updated to include `Overview`, `Installation`, `Usage`, `CI`, and `License` sections expected by repository policy checks.
 - README links updated to repository-relative markdown targets (`pages/*.md`) for policy compatibility.

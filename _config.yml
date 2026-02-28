@@ -28,6 +28,7 @@ exclude:
   - CONTRIBUTING.md
   - README.md
   - SECURITY.md
+  - TESTING.md
 
 defaults:
   - scope:
@@ -37,6 +38,11 @@ defaults:
       search_exclude: true
   - scope:
       path: "CHANGELOG.md"
+    values:
+      nav_exclude: true
+      search_exclude: true
+  - scope:
+      path: "TESTING.md"
     values:
       nav_exclude: true
       search_exclude: true
