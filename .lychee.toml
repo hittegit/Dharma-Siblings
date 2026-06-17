@@ -1,17 +1,21 @@
 # Lychee link checker configuration
+#
+# Note: `accept` in lychee v0.23+ replaces (not adds to) the default accepted
+# codes. Use `exclude` patterns instead for sites that block crawlers.
 
-# Accept these HTTP status codes in addition to 2xx.
-# 403/415 are returned by sites that block automated crawlers
-# but whose links are verified as valid manually.
-accept = [403, 415]
-
-# Domains excluded from checking.
-# - sotozen.com / sotozen-net.or.jp: official Japanese Soto Zen sites that
-#   consistently timeout from GitHub Actions runners due to geographic distance.
-# - youtube-nocookie.com: YouTube Privacy Enhanced Mode embed URLs are not
-#   reliably crawlable; embeds are verified manually when content is added.
+# Domains excluded from automated link checking.
+# All exclusions are false positives — the links are valid but unverifiable
+# by lychee due to crawler blocking, geographic timeouts, or embed restrictions.
 exclude = [
+    # Blocks automated crawlers with 403 — link is valid
+    "wisdomexperience\\.org",
+    # Returns 415 for PDFs when crawled — content verified manually
+    "huntingtonarchive\\.org",
+    "ancientdragon\\.org",
+    # Official Japanese Soto Zen sites: timeout from GitHub runners + some
+    # pages moved after site reorganization (broken links tracked in #11)
     "sotozen\\.com",
-    "sotozen-net\\.or\\.jp",  # global site reorganized; broken links tracked in issue #11
-    "youtube-nocookie\\.com",  # Privacy Enhanced Mode embed URLs not reliably crawlable
+    "sotozen-net\\.or\\.jp",
+    # YouTube Privacy Enhanced Mode embed URLs are not reliably crawlable
+    "youtube-nocookie\\.com",
 ]
