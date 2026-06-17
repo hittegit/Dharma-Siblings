@@ -8,20 +8,9 @@ This project follows a spirit of mindful versioning: changes are recorded to hel
 
 ## [Unreleased]
 
-Added
-
-- `.lychee.toml` with explicit exclusions for domains that block automated crawlers (403/415) or timeout from GitHub Actions runners, and for YouTube Privacy Enhanced Mode embed URLs.
-
-Changed
-
-- `check-links.yml`: upgraded `actions/checkout` v3 → v4, `lycheeverse/lychee-action` v1.8.0 → v2; dropped `--exclude-mail` flag (removed in lychee v0.23, mail links now excluded by default); added explicit `--config .lychee.toml`.
-- `lint-markdown.yml`: upgraded `actions/checkout` v3 → v4, `actions/setup-node` v3 → v4.
-- `yardstick.yml`: upgraded `actions/checkout` v5 → v6, `yardstick` tool v0.2.0 → v0.4.0.
-- `AGENTS.md`: corrected hardcoded absolute local path to `TESTING.md` to use a relative link; updated lychee command example to drop `--exclude-mail`.
-
 ---
 
-## [Unreleased — prior]
+## [v1.2.0] – 2026-06-17
 
 Added
 
@@ -30,23 +19,23 @@ Added
 - `SECURITY.md` with vulnerability reporting guidance.
 - Yardstick badge in `README.md` project status section.
 - `TESTING.md` with explicit local rendering checks, required validation commands, and merge-readiness checklist.
+- `.lychee.toml` with explicit exclusions for domains that block automated crawlers or timeout from GitHub Actions runners, and for YouTube Privacy Enhanced Mode embed URLs.
 
 Changed
 
-- `AGENTS.md` expanded with explicit lint/test expectations, local rendering checks, and local Yardstick command guidance.
-- `AGENTS.md` testing section now references `TESTING.md` as the required local verification source of truth.
-- `pages/video-and-film.md` broken media links were replaced with working video embeds and verified official channel/center links.
-- `pages/liturgy.md` broken and outdated resource links were refreshed across liturgy, sutra, and study sections.
-- `pages/recipes.md` embedded video URL parameters were updated to a working variant.
-- `TODO.txt` link-repair notes were reorganized for ongoing broken-link triage.
-- `_config.yml` updated to exclude `AGENTS.md` and `CHANGELOG.md` from generated site output and nav/search indexing.
-- `_config.yml` exclusion list expanded so root-level repository docs (`README.md`, `CONTRIBUTING.md`, `SECURITY.md`) are not published as site pages.
-- `_config.yml` exclusion/defaults updated to keep `TESTING.md` out of published navigation and search.
+- `check-links.yml`: upgraded `actions/checkout` v3 → v4, `lycheeverse/lychee-action` v1.8.0 → v2; dropped `--exclude-mail` flag (removed in lychee v0.23, mail links now excluded by default); added explicit `--config .lychee.toml`.
+- `lint-markdown.yml`: upgraded `actions/checkout` v3 → v4, `actions/setup-node` v3 → v4.
+- `yardstick.yml`: upgraded `actions/checkout` v5 → v6, `yardstick` tool v0.2.0 → v0.4.0.
+- `AGENTS.md` expanded with explicit lint/test expectations, local rendering checks, and local Yardstick command guidance; corrected hardcoded absolute local path to `TESTING.md`; updated lychee command example.
+- `pages/video-and-film.md` broken media links replaced with working video embeds and verified official channel/center links.
+- `pages/liturgy.md` broken and outdated resource links refreshed across liturgy, sutra, and study sections.
+- `pages/recipes.md` embedded video URL parameters updated to a working variant.
+- `TODO.txt` link-repair notes reorganized for ongoing broken-link triage.
+- `_config.yml` updated to exclude repository docs from generated site output and nav/search indexing.
 - `_sass/custom/custom.scss` updated to restore visible logo rendering and increase header logo display size.
-- `README.md` updated to include `Overview`, `Installation`, `Usage`, `CI`, and `License` sections expected by repository policy checks.
-- README links updated to repository-relative markdown targets (`pages/*.md`) for policy compatibility.
-- GitHub workflow YAML files normalized for lint compliance (`---` document starts and quoted `"on"` keys where applicable).
-- YAML lint workflow trigger adjusted to avoid duplicate `yaml-lint` runs on PRs by limiting `push` trigger to `main`.
+- `README.md` updated to include sections expected by repository policy checks; links updated to repository-relative markdown targets.
+- GitHub workflow YAML files normalized for lint compliance.
+- YAML lint workflow trigger adjusted to avoid duplicate runs on PRs.
 
 Removed
 
