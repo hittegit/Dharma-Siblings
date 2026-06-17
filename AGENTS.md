@@ -15,7 +15,7 @@ This guide outlines how to work inside the Dharma Siblings Jekyll site so contri
 - `yamllint .` - run YAML linting across workflow files and site config.
 - `jq . renovate.json > /dev/null` - validate JSON-based configuration files before committing.
 - `yardstick -path . -format table` - run repository policy checks locally when validating CI/config hygiene.
-- `lychee --verbose --exclude-mail --timeout 20 "**/*.md"` - optional local link checking; run when link changes are in scope.
+- `lychee --verbose --timeout 20 "**/*.md"` - optional local link checking; run when link changes are in scope.
 
 ## Coding Style & Naming Conventions
 
@@ -28,7 +28,7 @@ Before merge, update `CHANGELOG.md` to reflect all user-facing, CI, or policy ch
 
 ## Testing Guidelines
 
-Follow [`TESTING.md`](/home/ejh/Repos/Dharma-Siblings/TESTING.md) as the required source of truth for local verification before opening or merging a PR.
+Follow [`TESTING.md`](TESTING.md) as the required source of truth for local verification before opening or merging a PR.
 
 - Treat manual local rendering checks as mandatory for content, navigation, and styling changes.
 - Treat lint/build checks in `TESTING.md` as required PR gates.
