@@ -10,6 +10,21 @@ This project follows a spirit of mindful versioning: changes are recorded to hel
 
 Added
 
+- `.lychee.toml` with explicit exclusions for domains that block automated crawlers (403/415) or timeout from GitHub Actions runners, and for YouTube Privacy Enhanced Mode embed URLs.
+
+Changed
+
+- `check-links.yml`: upgraded `actions/checkout` v3 → v4, `lycheeverse/lychee-action` v1.8.0 → v2; dropped `--exclude-mail` flag (removed in lychee v0.23, mail links now excluded by default); added explicit `--config .lychee.toml`.
+- `lint-markdown.yml`: upgraded `actions/checkout` v3 → v4, `actions/setup-node` v3 → v4.
+- `yardstick.yml`: upgraded `actions/checkout` v5 → v6, `yardstick` tool v0.2.0 → v0.4.0.
+- `AGENTS.md`: corrected hardcoded absolute local path to `TESTING.md` to use a relative link; updated lychee command example to drop `--exclude-mail`.
+
+---
+
+## [Unreleased — prior]
+
+Added
+
 - `yardstick` GitHub Actions workflow (`.github/workflows/yardstick.yml`) with pinned tool version and PR/push checks.
 - `CODEOWNERS` with default repository ownership rule.
 - `SECURITY.md` with vulnerability reporting guidance.
