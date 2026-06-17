@@ -1,0 +1,17 @@
+# Lychee link checker configuration
+
+# Accept these HTTP status codes in addition to 2xx.
+# 403/415 are returned by sites that block automated crawlers
+# but whose links are verified as valid manually.
+accept = [403, 415]
+
+# Domains excluded from checking.
+# - sotozen.com / sotozen-net.or.jp: official Japanese Soto Zen sites that
+#   consistently timeout from GitHub Actions runners due to geographic distance.
+# - youtube-nocookie.com: YouTube Privacy Enhanced Mode embed URLs are not
+#   reliably crawlable; embeds are verified manually when content is added.
+exclude = [
+    "sotozen\\.com",
+    "sotozen-net\\.or\\.jp",
+    "youtube-nocookie\\.com",
+]
