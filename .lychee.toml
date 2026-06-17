@@ -12,6 +12,6 @@ accept = [403, 415]
 #   reliably crawlable; embeds are verified manually when content is added.
 exclude = [
     "sotozen\\.com",
-    "sotozen-net\\.or\\.jp",
-    "youtube-nocookie\\.com",
+    "sotozen-net\\.or\\.jp",  # global site reorganized; broken links tracked in issue #11
+    "youtube-nocookie\\.com",  # Privacy Enhanced Mode embed URLs not reliably crawlable
 ]
