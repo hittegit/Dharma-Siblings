@@ -18,4 +18,6 @@ exclude = [
     "sotozen-net\\.or\\.jp",
     # YouTube Privacy Enhanced Mode embed URLs are not reliably crawlable
     "youtube-nocookie\\.com",
+    # Consistently times out from GitHub Actions runners
+    "chzc\\.org",
 ]
